@@ -1,0 +1,14 @@
+DATA IN THIS FILE IS CALCULATED RANDOMLY. NOT VERY ACCURATE.
+Stages Filter  - 3M                             - A         - 10.0          - 0.30   - 5
+Stages Filter  - Parker                         - XY        - 50.0          - 0.70   - 15
+Stages Filter  - Ecolab                         - M         - 30.0          - 0.45   - 10
+Stages Filter  - Pall                           - XS        - 15.0          - 0.90   - 5
+Stages Filter  - Donaldson                      - U         - 2.0           - 0.74   - 2
+Stages Filter  - Watts Water                    - G         - 3.0           - 0.66   - 3
+Stages Filter  - Calgon                         - X7        - 7.0           - 0.96   - 5
+Gravity Filter - 3M                             - CV        - 17.0          - 0.63   - YES       - 1.0
+Gravity Filter - Parker                         - J11       - 13.0          - 0.44   - NO        - 3.0
+Gravity Filter - Ecolab                         - Y         - 11.0          - 0.71   - YES       - 0.5
+Gravity Filter - Pall                           - Q         - 2.0           - 0.36   - NO        - 1.5
+Gravity Filter - Watts Water                    - CC        - 6.0           - 0.20   - YES       - 4.0
+Gravity Filter - Calgon                         - RX        - 4.0           - 0.80   - YES       - 2.5
